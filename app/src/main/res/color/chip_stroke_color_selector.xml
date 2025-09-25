@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Cuando el chip está seleccionado (checked), el borde usa el color primario de tu app -->
+    <item android:color="?attr/colorPrimary" android:state_checked="true" />
+    <!-- Por defecto (no seleccionado), el borde es de color gris oscuro -->
+    <item android:color="@android:color/darker_gray" />
+</selector>

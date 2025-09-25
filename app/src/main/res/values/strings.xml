@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Microservicio</string>
+    <!-- Agrega esta línea para la descripción del logo -->
+    <string name="app_logo">Logo de la tienda</string>
+    <!-- Nuevas cadenas para ProductListFragment -->
+    <string name="categories_title">Categorías</string>
+    <string name="products_title">Productos</string>
+    <string name="product_image_description">Imagen del producto</string>
+    <string name="category_image_description">Imagen de la categoría</string>
+
+    <!-- Para el item_product.xml que mencionaste antes -->
+    <string name="nombre_producto">Nombre del Producto</string>
+    <string name="precio_cero">S/ 0.00</string>
+</resources>
